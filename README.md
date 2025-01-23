@@ -27,7 +27,6 @@ Follow these steps to set up and run the Dice Game on your machine:
 2. Clone the project repository:
    ```bash
    git clone https://github.com/tstazbid/dicegame.git
-   cd dicegame
    ```
 
 ### Build the Project
